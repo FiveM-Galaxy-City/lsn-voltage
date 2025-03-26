@@ -2,6 +2,8 @@ Config = {}
 
 Config.Debug = false -- Enables debugging mode (true/false). If enabled, debug messages will be printed.
 
+Config.Framework = "esx"
+
 Config.buyPrice = 75000 -- Price to buy the wind turbine.
 Config.repairCostPerPercent = 100 -- Repair cost per percent of damage.
 
